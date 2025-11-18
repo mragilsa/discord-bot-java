@@ -28,9 +28,6 @@ logs/
 *.tar.gz
 *.rar
 
-# Config files with sensitive information
-src/main/resources/config.properties
-
 # VM crash logs
 hs_err_pid*
 
