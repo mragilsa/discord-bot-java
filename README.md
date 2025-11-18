@@ -37,7 +37,7 @@ botToken=your_bot_token_here
 mvn clean package
 ```
 ```
-java -jar target/discord-bot-1.0-SNAPSHOT.jar
+java -jar target/discord-bot-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 After the bot is running, open Discord and navigate to the server where you added the bot. You can now use the slash commands listed below to interact with the bot.
